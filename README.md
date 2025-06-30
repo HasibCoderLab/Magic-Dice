@@ -22,7 +22,7 @@
 ---
 
 ## 📸 Preview
-
+`
 ![Preview of MagicDice](img/README/Pic.png)   
 *(Make sure to add a screenshot at this location)*
 
